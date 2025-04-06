@@ -15,18 +15,19 @@
   “There is power in silence.”
 </p>
 
+<!-- Glowing social badges using styled Shields.io (GitHub compatible) -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8C7853"/>
+  <a href="https://www.linkedin.com/in/ch-tarun-67ab34336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=9dffb0&labelColor=111111" />
   </a>
-  <a href="https://instagram.com/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=8C7853"/>
+  <a href="https://www.instagram.com/intellectz_24/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=faa0ff&labelColor=111111" />
   </a>
-  <a href="https://reddit.com/u/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-1C1C1C?style=for-the-badge&logo=reddit&logoColor=8C7853"/>
+  <a href="https://www.reddit.com/user/Intellectz_24/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-0a0a0a?style=for-the-badge&logo=reddit&logoColor=ff6f61&labelColor=111111" />
   </a>
-  <a href="https://tryhackme.com/p/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-1C1C1C?style=for-the-badge&logo=tryhackme&logoColor=8C7853"/>
+  <a href="https://x.com/Intellectz_24" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=twitter&logoColor=6fbfff&labelColor=111111" />
   </a>
 </p>
 
